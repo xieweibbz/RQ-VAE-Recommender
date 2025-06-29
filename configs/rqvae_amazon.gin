@@ -1,7 +1,7 @@
 import data.processed
 import modules.quantize
 
-train.iterations=400000
+train.iterations=4
 train.learning_rate=0.0005
 train.weight_decay=0.01
 train.batch_size=64
